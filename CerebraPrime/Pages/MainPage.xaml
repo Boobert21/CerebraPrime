@@ -1,0 +1,168 @@
+﻿<Page x:Class="CerebraPrime.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CerebraPrime.Pages"
+      xmlns:lvc="clr-namespace:LiveChartsCore.SkiaSharpView.WPF;assembly=LiveChartsCore.SkiaSharpView.WPF"
+    xmlns:vms="clr-namespace:ViewModelsSamples.Lines.Basic;assembly=ViewModelsSamples"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1050"
+      Title="MainPage"
+      Background="Transparent"
+      Margin="0">
+
+    <Border BorderThickness="0"
+            CornerRadius="0">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <!-- Первый столбец (можно указать фиксированную ширину) -->
+                <ColumnDefinition Width="3*" />
+                <!-- Второй столбец (основная часть) -->
+                <ColumnDefinition Width="1.75*" />
+                <!-- Третий столбец (можно указать фиксированную ширину) -->
+                <ColumnDefinition Width="1.25*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Первый столбец -->
+            <Border BorderThickness="0" Grid.Column="0">
+                <!-- Здесь можно разместить контент для первого столбца -->
+            </Border>
+
+            <!-- Второй столбец -->
+            <Border CornerRadius="10" 
+                    BorderThickness="0" 
+                    BorderBrush="White" 
+                    Padding="0" 
+                    Margin="0, 0, 5, 0"
+                    Grid.Column="1">
+
+                <RichTextBox Name="richTextBox" 
+                             HorizontalAlignment="Stretch" 
+                             VerticalAlignment="Stretch"
+                             IsReadOnly="True"
+                             Margin="0, 0, 0, 5">
+                    <FlowDocument>
+                        <Paragraph>
+                            <Run Text="Окно логирования:" />
+                        </Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </Border>
+
+            <!-- Третий столбец -->
+            <Border BorderThickness="0" Grid.Column="2">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <!-- Верхний элемент -->
+                        <RowDefinition Height="*" />
+                        <!-- Промежуток для среднего элемента -->
+                        <RowDefinition Height="Auto" />
+                        <!-- Нижний элемент -->
+                    </Grid.RowDefinitions>
+
+                    <!-- Верхний элемент -->
+                    <ListBox Name="listBox" 
+                             HorizontalAlignment="Stretch"
+                             Grid.Row="0"
+                             VerticalAlignment="Top"
+                             Height="400"
+                             Margin="0,0,5,0">
+
+                        <ListBoxItem>
+                            <TextBlock Text="123"/>
+                        </ListBoxItem>
+                    </ListBox>
+                    
+                    <!-- Средний элемент -->
+                    <StackPanel Orientation="Horizontal" 
+                                Grid.Row="1"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center" 
+                                Margin="0,0,5,0">
+
+                        <Button x:Name="btnStart" 
+                                Command="{Binding LoginCommand}"
+                                BorderThickness="0"
+                                Content="START"
+                                Foreground="White"
+                                FontSize="12"
+                                FontFamily="Montserrat"
+                                Cursor="Hand"                           
+                                Margin="0,0,5,0">
+
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="#696969"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#000000"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Width="100" Height="40"
+                                            CornerRadius="20"
+                                            Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center"
+                                                          HorizontalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <Button x:Name="btnStop" 
+                                Command="{Binding LoginCommand}"
+                                BorderThickness="0"
+                                Content="STOP"
+                                Foreground="White"
+                                FontSize="12"
+                                FontFamily="Montserrat"
+                                Cursor="Hand"                           
+                                Margin="5,0,0,0">
+
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="#696969"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#000000"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Width="100" Height="40"
+                                            CornerRadius="20"
+                                            Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center"
+                                                          HorizontalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+                    </StackPanel>
+
+                    <!-- Нижний элемент -->
+                    <ListBox Name="listBox2" 
+                             HorizontalAlignment="Stretch" 
+                             VerticalAlignment="Stretch"
+                             Grid.Row="2"
+                             Height="200"
+                             Margin="0,0,5,5">
+
+                        <ListBoxItem>
+                            <TextBlock Text="123"/>
+                        </ListBoxItem>
+                    </ListBox>
+                </Grid>
+            </Border>
+        </Grid>
+    </Border>
+</Page>

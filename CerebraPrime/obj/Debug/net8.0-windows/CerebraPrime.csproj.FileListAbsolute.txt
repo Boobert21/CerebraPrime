@@ -1,0 +1,17 @@
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\CerebraPrime.csproj.AssemblyReference.cache
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Styles\UIColors.baml
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Pages\ArchivePage.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Pages\OrderPage.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Pages\PlcPage.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Pages\RealtimePage.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Pages\SettingsPage.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\Views\MainView.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\CerebraPrime_MarkupCompile.cache
+C:\Users\gosha\source\repos\CerebraPrime\CerebraPrime\obj\Debug\net8.0-windows\CerebraPrime_MarkupCompile.lref

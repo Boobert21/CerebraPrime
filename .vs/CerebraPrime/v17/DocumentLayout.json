@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\viewmodels\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\viewmodels\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\customcontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\customcontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\ArchivePage.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\ArchivePage.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\helpers\\gridlengthanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\helpers\\gridlengthanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\helpers\\commandradiobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\helpers\\commandradiobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\models\\useraccountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\models\\useraccountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Views\\LoginView.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CerebraPrime\\obj\\Debug\\net8.0-windows\\Views\\LoginView.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|c:\\users\\gosha\\source\\repos\\cerebraprime\\cerebraprime\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1DF0AB5-5725-44E2-9A59-1FA9B47FBAF1}|CerebraPrime\\CerebraPrime.csproj|solutionrelative:cerebraprime\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 448,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "CerebraPrime\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:48:23.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "CerebraPrime\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:46:44.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\App.xaml",
+              "RelativeDocumentMoniker": "CerebraPrime\\App.xaml",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\App.xaml",
+              "RelativeToolTip": "CerebraPrime\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T07:57:57.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "CerebraPrime\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Views\\LoginView.xaml",
+              "RelativeToolTip": "CerebraPrime\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T09:46:02.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommandRadioButton.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Helpers\\CommandRadioButton.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\Helpers\\CommandRadioButton.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Helpers\\CommandRadioButton.cs",
+              "RelativeToolTip": "CerebraPrime\\Helpers\\CommandRadioButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:40:37.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArchivePage.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\ArchivePage.g.i.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\ArchivePage.g.i.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\ArchivePage.g.i.cs",
+              "RelativeToolTip": "CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\ArchivePage.g.i.cs",
+              "ViewState": "AgIAABIAAAAAAAAAACBjwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:04:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BindablePasswordBox.xaml",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\CustomControls\\BindablePasswordBox.xaml",
+              "RelativeDocumentMoniker": "CerebraPrime\\CustomControls\\BindablePasswordBox.xaml",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\CustomControls\\BindablePasswordBox.xaml",
+              "RelativeToolTip": "CerebraPrime\\CustomControls\\BindablePasswordBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T07:09:04.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.g.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.cs",
+              "RelativeToolTip": "CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:10:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\ViewModels\\ViewModelCommand.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\ViewModels\\ViewModelCommand.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\ViewModels\\ViewModelCommand.cs",
+              "RelativeToolTip": "CerebraPrime\\ViewModels\\ViewModelCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:55:50.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GridLengthAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Helpers\\GridLengthAnimation.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\Helpers\\GridLengthAnimation.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Helpers\\GridLengthAnimation.cs",
+              "RelativeToolTip": "CerebraPrime\\Helpers\\GridLengthAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:40:39.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.i.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.i.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.i.cs",
+              "RelativeToolTip": "CerebraPrime\\obj\\Debug\\net8.0-windows\\Pages\\MainPage.g.i.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:05:08.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\App.xaml.cs",
+              "RelativeToolTip": "CerebraPrime\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:58:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "CerebraPrime\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:13:47.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Models\\UserAccountModel.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\Models\\UserAccountModel.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Models\\UserAccountModel.cs",
+              "RelativeToolTip": "CerebraPrime\\Models\\UserAccountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:40:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Models\\UserModel.cs",
+              "RelativeToolTip": "CerebraPrime\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:39:56.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginView.g.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Views\\LoginView.g.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\obj\\Debug\\net8.0-windows\\Views\\LoginView.g.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\obj\\Debug\\net8.0-windows\\Views\\LoginView.g.cs",
+              "RelativeToolTip": "CerebraPrime\\obj\\Debug\\net8.0-windows\\Views\\LoginView.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:58:23.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "CerebraPrime\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "CerebraPrime\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:56:37.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "CerebraPrime\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\gosha\\source\\repos\\CerebraPrime\\CerebraPrime\\Views\\MainView.xaml",
+              "RelativeToolTip": "CerebraPrime\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T09:46:34.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
